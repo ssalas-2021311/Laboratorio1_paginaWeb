@@ -1,0 +1,244 @@
+a {
+    text-decoration: none;
+    color: #23376d;
+    font-size: 18px;
+}
+
+#menu {
+    background-color: white;
+    font-family: arial;
+    font-weight: bold;
+}
+
+#menu ul li {
+    display: block;
+    float: left;
+    border: 2px solid #23376d;
+}
+
+#menu ul li a {
+    padding: 20px;
+    color: #2B2E39;
+    display: block;
+}
+
+#menu ul li a:hover {
+    background-color: #000000;
+    color: white;
+}
+
+.clearfix {
+    float: none;
+    clear: both;
+}
+
+.contenido {
+    padding: 0%;
+    margin: 0%;
+    background: #EDF5FB;
+}
+
+.descripcion {
+    font-size: 25px;
+    text-align: justify;
+    margin: 15px;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.div-center {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+footer {
+    background: #23376d;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    font-size: 25;
+    font-family: Arial, Helvetica, sans-serif;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+
+}
+
+.img-carreras {
+    width: 80%;
+    margin: 0px auto;
+    display: block;
+}
+
+.parrafo-ct {
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: auto;
+    margin-top: 3%;
+}
+
+#contenido-ct {
+    margin: 15px;
+}
+
+th {
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+    font-weight: bold;
+}
+
+header {
+    justify-content: left;
+    font-size: 0px;
+    background: #23376d;
+    width: 100%;
+    z-index: 100;
+    display: flex;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo {
+    float: left;
+}
+
+#logos {
+    float: left;
+    width: 11%;
+}
+
+nav {
+    float: left;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    float: left;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+nav ul li a {
+    display: block;
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li:hover {
+    background: #E67A17;
+    color: #000000;
+}
+
+
+#contactos {
+    width: 38px;
+    height: 38px;
+    display: flex;
+    position: relative;
+    padding: auto;
+
+}
+
+.container-fluid {
+    text-align: justify;
+    font-family: Arial;
+}
+
+.subtitulo {
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    margin: 2px;
+    margin-bottom: 3%;
+}
+
+.colabs1 {
+    padding-top: 0%;
+    padding-left: 0%;
+    padding-bottom: 25%;
+    width: 300px;
+}
+
+.colabs1:hover {
+    background-color: #c5c5c5;
+    border-radius: 4%;
+}
+
+.seccion2 {
+    background: #EDF5FB;
+}
+
+#seccionHobie {
+    margin: 0%;
+    background-color: cadetblue;
+
+}
+
+.contenido {
+    font-family: arial;
+}
+
+.titulo {
+    margin: 0%;
+    padding: 0%;
+    font-size: 35px;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+}
+
+.secciones {
+    font-family: Arial;
+    margin: 5px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.ttexto {
+    position: relative;
+    display: flex;
+    font-size: 20px;
+}
+
+.conten {
+    display: flex;
+    margin: 90px;
+    background: #fbf5ed;
+    border-radius: 2%;
+    padding: auto;
+}
+
+.articulos {
+    display: flex;
+    margin: 10px;
+}
+
+.img {
+    text-align: center;
+    justify-content: center;
+}
+
+#seccionBio {
+    margin: 0%;
+    background: #2B2E39;
+}
+
+.contenText {
+    float: left;
+    background: #B2BABB;
+    margin: 100px;
+    border-radius: 20px;
+    width: 60%;
+}
+
+.contenImg {
+    float: right;
+    background: #B2BABB;
+    padding: 20px;
+    margin: 40px;
+    margin-top: 110px;
+    width: 20%;
+}
